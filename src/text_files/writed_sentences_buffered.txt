@@ -1,5 +1,3 @@
 Ciao sono la prima riga bufferizzata!
 Io sono la seconda riga bufferizzata
 E io invece l'ultima...Ciao sono la prima riga bufferizzata!
-Io sono la seconda riga bufferizzata
-E io invece l'ultima...
